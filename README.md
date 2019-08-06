@@ -5,7 +5,7 @@ In this we did try to retrive the defination of the words from the JSON data and
 
 
 
-In this we did use the biraries like
+In this we did use the libraries like
 
 
 
